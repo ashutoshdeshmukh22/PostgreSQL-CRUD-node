@@ -1,2 +1,2 @@
 # PostgreSQL-CRUD-node
-basic application demonstrates the CRUD operation on PostgreSQL Database
+REST API that demonstrates the CRUD operation on PostgreSQL Database
